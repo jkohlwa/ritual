@@ -1,3 +1,21 @@
+# Bootcamp Level 2 Homework ✨
+
+Hi, I’m Sam.  
+Finished the second bootcamp on Aug 17, 2026.
+
+This one was actually fun.  
+A prediction market that just… resolves itself. No admin button needed.
+
+### What I got from it
+- How the Scheduler wakes the contract
+- How HTTP + jq work together
+- Why they use blocks instead of timestamps
+- The nice refund logic when data fails
+
+Testnet already closed, so I just read everything carefully.  
+Feeling ready for mainnet now.
+
+Thanks for the session!
 # Ritual Predict
 
 A self-resolving binary prediction market on [Ritual Chain](https://docs.ritualfoundation.org).
